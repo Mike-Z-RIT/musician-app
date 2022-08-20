@@ -17,7 +17,7 @@
     "yup": "^0.26.10"
   },
   "scripts": {
-    "deploy": "npm run install && npm run build && npm run start"
+    "deploy": "npm run build && npm run start"
   },
   "devDependencies": {
     "jest": "^24.7.1",
