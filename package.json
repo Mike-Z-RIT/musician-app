@@ -16,7 +16,7 @@
     "winston": "^3.2.1",
     "yup": "^0.26.10"
   },
-  "scripts": {
+   "scripts": {
     "deploy": "npm run build && npm run start"
   },
   "devDependencies": {
